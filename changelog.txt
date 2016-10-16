@@ -1,2 +1,2 @@
-v2.4.0.1 (Magisk v2)
-    - Add Nougat SELinux patch
+v2.5.0.5 (Magisk v2)
+    - Update Libs to 2.5.0.5
